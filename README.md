@@ -1,2 +1,5 @@
-# eip7702-demo
-EIP7702 Demo in Typescript
+### eth-playground
+
+This repo is a collection of scripts and notes for playing with Ethereum.
+
+1. [EIP-7702](./src/EIP-7702/README.md).
